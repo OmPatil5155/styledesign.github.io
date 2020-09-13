@@ -588,7 +588,7 @@ footer p:nth-child(2){
             width: 250px;
             left: 50%;
             margin-top: 20px;
-            border-radius: 50%;
+/*             border-radius: 50%; */
     transform: translateX(-50%);
             
           /* text-align: center; */
@@ -609,7 +609,7 @@ footer p:nth-child(2){
     .model{
         top: 20%;
         transform: translateX(-90%);
-        left:25%;
+        left:90%;
 /*         width:300px; */
 /*         margin-right:100px; */
     }
