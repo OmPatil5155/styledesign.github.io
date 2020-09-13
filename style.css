@@ -616,7 +616,7 @@ footer p:nth-child(2){
    
     
 }
-@media (max-width:500px){
+@media (max-width:780px){
    .services.text{
      width: 100%;
      text-align: center;   
