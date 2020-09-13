@@ -608,8 +608,8 @@ footer p:nth-child(2){
 @media (max-width:780px){
     .model{
         top: 20%;
-        transform: translateX(-10%);
-        margin-right:100px;
+        transform: translateX(-130%);
+/*         margin-right:100px; */
     }
     .text-container{
         margin-top: 230px;
