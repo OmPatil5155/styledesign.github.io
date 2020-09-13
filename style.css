@@ -536,6 +536,9 @@ footer p:nth-child(2){
             font-size: 12px;
         
         }
+    contact-me p{
+       font-size:22px;   
+    }
         
 }
 @media (max-width:954px){
