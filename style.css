@@ -609,7 +609,7 @@ footer p:nth-child(2){
     .model{
         top: 20%;
         transform: translateX(-25%);
-        left:10%;
+        left:-25%;
 /*         width:300px; */
 /*         margin-right:100px; */
     }
