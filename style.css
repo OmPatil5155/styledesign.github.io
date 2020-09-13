@@ -250,7 +250,7 @@ button:active{
     height: 300px;
     background-color: #ffffff;
     padding: 2% 10% 0px 10%;
-    /* text-align: center; */
+/*     text-align: center; */
 }
 .services-text p:nth-child(1){
     font-weight: bold;
@@ -268,7 +268,8 @@ button:active{
 }
 
 .services-text{
-    width: 500px;
+/*     width: 500px; */
+    text-align:center;
     margin: 50px 0px;
     text-transform: capitalize;
 }
