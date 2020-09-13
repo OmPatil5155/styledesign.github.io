@@ -266,11 +266,7 @@ button:active{
     line-height: 5px;
     text-transform: capitalize;
 }
-.services-text p:nth-child(3){
-    
-    color:gray;
-    text-transform: capitalize;
-}
+
 .services-text{
     width: 500px;
     margin: 50px 0px;
@@ -616,7 +612,7 @@ footer p:nth-child(2){
    
     
 }
-@media (max-width:780px){
+@media (max-width:500px){
    .services.text{
      width: 100%;
      text-align: center;   
